@@ -1,2 +1,1 @@
 # GitTraining
-# GitTraining
